@@ -1,0 +1,2 @@
+An algorithm which appproximates solutions to differential equations using Heun's method.
+It is incomplete right now, but it still gives a somewhat accurate approx. due to Euler's method being integrated.
