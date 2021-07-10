@@ -1,1 +1,1 @@
-This algorithm uses the false position method to estimate the roots of a user defined function.
+This algorithm uses the bisection method to estimate the roots of a user defined function.
