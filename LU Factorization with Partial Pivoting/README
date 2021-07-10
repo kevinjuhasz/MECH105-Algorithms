@@ -1,0 +1,1 @@
+This algorithm LU factorizes a matrix, complete with partial pivoting to avoid dividing by 0.
